@@ -189,7 +189,12 @@ def big_shoe_rebounds(hash)
      if player[:shoe] > big_shoe
        big_shoe = player[:shoe]
        rebounds = player[:rebounds]
-       
+     end
+   end
+ end
+ rebounds
+ end
+ 
     
 
 
